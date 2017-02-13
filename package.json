@@ -1,0 +1,14 @@
+{
+  "name": "req",
+  "version": "1.0.0",
+  "description": "For use in the HTTP client activity",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Florence",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
